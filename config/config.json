@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "TechTronics | Robotics & AI Blog",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo-light.png",
+    "logo_width": "150",
+    "logo_height": "39",
+    "logo_text": "TechTronics"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "Exploring the frontiers of robotics, AI, and future tech. TechTronics is your guide to innovation.",
+    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/) | Powered by TechTronics"
+  },
+  "metadata": {
+    "meta_author": "TechTronics Team",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "TechTronics: Your ultimate resource for insights into robotics, artificial intelligence, and cutting-edge technology."
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "TechTronics delves deep into the world of AI and robotics, offering expert insights, breaking news, and comprehensive guides for enthusiasts and professionals alike."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Top Tech Innovations",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Tech Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Join the TechTronics Community",
+      "content": "Get the latest robotics and AI breakthroughs, exclusive insights, and expert analyses delivered directly to your inbox every week!",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "techtronics-blog",
+    "settings": {}
+  }
+}
